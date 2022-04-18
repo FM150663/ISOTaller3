@@ -1,0 +1,144 @@
+*          {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    height: 100%;
+}
+
+body       {
+    background-color: white;
+    background-image: url(../img/moneybg.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    font-size: 18px;
+}
+
+header     {
+    margin: 6px auto;
+    width: 100%;
+}
+
+h2         {
+    color:black;
+    font-family: inherit;  
+    text-align:center;
+    font-size: 30px;
+}
+
+h3{
+    font-size: 28px;
+}
+
+hr       {
+    background-color: black;
+    border:solid 2px DimGray;      
+    height:2px;
+    width: 400px;
+    margin-left: 38%;
+
+}
+
+table    {
+    
+    
+    border-radius: 5px;
+    margin:0 auto;
+    width:24%;
+}
+
+thead    {
+    background-color:Indigo;
+    color:Gold;
+    font-family: inherit;
+    font-weight:600;
+    font-size:20px;
+}
+
+th       {
+   
+    border-radius: 5px;
+    padding: 5px 3px;
+}
+
+td       {
+    background-color:#DCECEF;
+    
+    border-radius: 5px;
+    color:Navy;
+    font-family: inherit;
+    font-size:10pt;
+    font-weight:400;
+    padding: 5px 3px;
+    text-align:center;
+}
+
+.formula{
+    background-color: white;
+    padding: 5%;
+    text-align: justify;
+    margin-left: 35%;
+}
+.name{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inherit;
+    text-align: center;
+}
+
+.tarea{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inherit;
+    text-align: center;
+}
+
+.investigacion{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inherit;
+    text-align: center;
+}
+
+.examen{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inherit;
+    text-align: center;
+}
+
+.boton{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inherit;
+    text-align: center;
+    background-color: #536DFE;
+    color: white;
+    border-color: #536DFE;
+}
+
+.boton2{
+    font:  18px; 
+    font-family: inherit;
+    text-decoration: none; 
+    background-color: #536DFE; 
+    color: white; 
+    padding: 4.5px 15px 4.5px 15px; 
+    border-top: 1px solid #536DFE; 
+    border-right: 1px solid #536DFE; 
+    border-bottom: 1px solid #536DFE; 
+    border-left: 1px solid #536DFE;
+    border-radius: 5px;
+}
+
